@@ -1,1 +1,1 @@
-# danske-chatgpt-prompts
+# Danske chatGPT prompts
