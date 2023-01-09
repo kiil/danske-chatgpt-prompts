@@ -1,5 +1,11 @@
 # Danske chatGPT prompts
 
+Du er velkommen til at bruge disse. De findes også i mere tilgængelig form her
+
+[samling af danske chatGPT prompts](https://www.kiils.dk/prompts/)
+
+---
+
 Chatbot bygger på en sprogmodel, og ikke et indeks som en søgemaskine. Derfor gælder det om at tænke i mønstre og sammenhænge i stedet for nøgleord.
 
 Et simpelt eksempel som afslører at chatGPT gengiver mønstre i de data der ligger i sprogmodellen, fremfor at forholde sig stringent til et givent spørgsmål, kan du finde her
